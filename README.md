@@ -1,2 +1,2 @@
-# html-css
- Estudando HTML5 e CSS3 do Curso em Video
+# HTMLeCSS
+ Estudando HTML5 e CSS3 no Curso em VIdeo
